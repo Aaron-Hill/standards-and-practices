@@ -42,7 +42,7 @@ Format:
 
 
 | **Name** | **GitHub** | **Notes** |
-|:---------|:-----------|:----------|
+| Aaron Hill | https://github.com/Aaron-Hill | I know html, css, javascript, and php. I'm really looking to expand my back end knowledge and collaborate as much as possible. |
 | Aaron Chaput | [achaput](https://github.com/achaput) | I know Java. I hoping to learn how to work on a large project. |
 | Aaron Killen | [akillen](https://github.com/akillen) | C#, VB.net enterprise experience. PHP in a past life. Currently learning Ruby and game dev. |
 | Aaron Wilson | [Jazztoken](https://github.com/jazztoken) | Looking to climb past the basics of programming. Learning Python and web development. |
